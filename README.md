@@ -13,13 +13,17 @@
 [![License](https://img.shields.io/badge/License-MIT-amber?style=for-the-badge)](LICENSE)
 
 <p align="center">
-  <a href="https://maniluahub.com">🌐 <b>Official Web Portal (官方网页端)</b></a> •
+  <a href="https://maniluahub.com">🌐 <b>Official Portal</b></a> •
   <a href="https://github.com/manilua-hub/ManifestHub3">⚡ ManifestHub3 Dataset</a> •
   <a href="https://maniluahub.com/explore">🎮 Manifest Catalog</a> •
   <a href="https://maniluahub.com/docs">🔌 OpenAPI Docs</a> •
-  <a href="https://maniluahub.com/how-to-use">📖 Tutorial (使用教程)</a> •
+  <a href="https://maniluahub.com/how-to-use">📖 Tutorial</a> •
   <a href="https://maniluahub.com/download">💻 Client Center</a> •
   <a href="https://maniluahub.com/faq">❓ FAQ</a>
+</p>
+
+<p align="center">
+  <b>English</b> • <a href="README.zh-CN.md">简体中文</a>
 </p>
 
 </div>
@@ -27,21 +31,22 @@
 ---
 
 > [!TIP]
-> ### ⚡ 官方 Web 探索器现已上线！
-> ### Official Web Explorer & Code Inspector is Live!
+> ### ⚡ Official Web Explorer & Code Inspector is Live!
 > 
-> 无需本地克隆 62,000+ 个 Git 分支，直接在网页端秒级检索、代码审查与一键打包下载：
+> You do not need to clone 62,000+ Git branches locally to inspect or download game manifests.
 > 
-> 👉 **[立即体验 ManiLuaHub.com (Launch Web App)](https://maniluahub.com)**
+> Use the web app for instant search, code preview, and 1-click ZIP packaging:
 > 
-> - 🔍 **瞬时搜索**：支持游戏中文名、英文名及 Steam AppID 极速检索。
-> - 👁️ **透明代码审计**：在线查看语法高亮的 Lua 清单蓝图与 Depot 解密密钥树。
-> - 📦 **一键打包**：直接下载免配置的 `<AppID>.lua` 与 `key.vdf` ZIP 压缩包，解压即用。
-> - 🔌 **免费 OpenAPI**：为机器人、社区工具及自动化脚本提供毫秒级 JSON 接口。
+> 👉 **[Launch ManiLuaHub Web Explorer](https://maniluahub.com)**
+> 
+> - 🔍 **Instant Search**: Search by game title or Steam AppID.
+> - 👁️ **Transparent Code Audit**: Inspect syntax-highlighted Lua blueprints and Depot keys in real-time.
+> - 📦 **1-Click Packaging**: Download ready-to-use `<AppID>.lua` and `key.vdf` ZIP archives.
+> - 🔌 **Free OpenAPI**: High-speed REST endpoints for automated bots and community tooling.
 
 ---
 
-## 🧭 About ManiLuaHub / 组织简介
+## 🧭 About ManiLuaHub
 
 **ManiLuaHub** is an open-source, community-driven platform dedicated to organizing, indexing, and serving Steam depot manifests, verified Lua automation blueprints, and developer-friendly data services for more than **62,257+ games and DLCs**.
 
@@ -49,7 +54,7 @@ Our goal is to make Steam manifest discovery **transparent, decentralized, audit
 
 ---
 
-## 🏛️ Ecosystem Overview / 生态架构
+## 🏛️ Ecosystem Overview
 
 The ManiLuaHub organization orchestrates several interconnected repositories and services:
 
@@ -62,7 +67,7 @@ The ManiLuaHub organization orchestrates several interconnected repositories and
 
 ---
 
-## 💡 Core Principles & Design / 核心设计
+## 💡 Core Principles & Design
 
 ```text
                ┌────────────────────────────────────────────────────────┐
@@ -94,7 +99,7 @@ The ManiLuaHub organization orchestrates several interconnected repositories and
 
 ---
 
-## 🎮 Universal Client Compatibility / 兼容客户端
+## 🎮 Universal Client Compatibility
 
 ManiLuaHub manifests and scripts are structured for native interoperability with leading Steam utility frameworks:
 
@@ -107,7 +112,7 @@ ManiLuaHub manifests and scripts are structured for native interoperability with
 
 ---
 
-## 🔌 Quick API Usage / API 快速上手
+## 🔌 Quick API Usage
 
 Integrate ManiLuaHub data into your own CLI, Discord/Telegram bots, or utility scripts:
 
@@ -130,7 +135,7 @@ For full OpenAPI 3.0 Swagger specifications and interactive documentation, visit
 
 ---
 
-## 🤝 Contributing & Community / 参与共建
+## 🤝 Contributing & Community
 
 We warmly welcome developers, curators, and gaming enthusiasts to collaborate with us:
 
@@ -140,7 +145,7 @@ We warmly welcome developers, curators, and gaming enthusiasts to collaborate wi
 
 ---
 
-## 📜 Legal & Disclaimer / 免责声明
+## 📜 Legal & Disclaimer
 
 - **Open-Source License**: All documentation, code, and script registries are distributed under the [MIT License](LICENSE).
 - **Trademark Notice**: *Steam*, *SteamOS*, and the *Steam logo* are registered trademarks of **Valve Corporation**. ManiLuaHub is an independent open-source project and is neither affiliated with, endorsed by, nor sponsored by Valve Corporation.
